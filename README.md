@@ -27,6 +27,7 @@ Unity Project `Supported Version: 2022.3.11f1`
 2. BingMap
 > It is api provided by Microsoft in which you could visualize the area on the earth with its 3D representation on the unity, but the same case happened with it there was no 3D model pre-trained for the bengaluru City specific.
 
+**I created a basic 2x2 square kilometer area in Unity, representing the vicinity of the Indiranagar Metro Station in Bengaluru.**
 ### With BingMap demo
 [![Bing Map Demo](https://img.youtube.com/vi/bBd5wqDNdCE/0.jpg)](https://youtu.be/bBd5wqDNdCE)
 
