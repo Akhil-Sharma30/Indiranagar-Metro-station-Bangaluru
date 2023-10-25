@@ -33,3 +33,4 @@ Unity Project `Supported Version: 2022.3.11f1`
 
 ### Constraints
 We currently lack an accurate 3D model for Bengaluru city, preventing us from incorporating a 3D model at this moment. However, we intend to address this limitation in the future by either creating a model for the city or obtaining an existing 3D model for it.
+> [Link to issue ppt](https://docs.google.com/presentation/d/1XHlq1IQLpiWZZtciBZc6Odj5BViFqH3_D1bKcpmzPZ8/edit?usp=sharing)
