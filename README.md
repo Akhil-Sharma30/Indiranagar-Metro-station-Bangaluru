@@ -14,9 +14,15 @@ Unity Project `Supported Version: 2022.3.11f1`
 > When tried with cesium and Google Map Platformer it help me provide a 2D representation of the area but as there was no photorealistic 3D model for this location or any pre-exisitng model present to import, It was not possible to create the 3D Representation in this much less time span.
 
 ### With Cesium (Google Map Platformer) demo 
+### Without Building 
+[![Cesium Map Demo](https://img.youtube.com/vi/clcWNpJStY8/0.jpg)](https://youtu.be/clcWNpJStY8)
+
+### Demo building placed on the 2D surface
+[![Cesium Map Demo](https://img.youtube.com/vi/587E1N5nkgc/0.jpg)](https://youtu.be/587E1N5nkgc)
 
 2. BingMap
 > It is api provided by Microsoft in which you could visualize the area on the earth with its 3D representation on the unity, but the same case happened with it there was no 3D model pre-trained for the bengaluru City specific.
 
 ### With BingMap demo
+[![Bing Map Demo](https://img.youtube.com/vi/bBd5wqDNdCE/0.jpg)](https://youtu.be/bBd5wqDNdCE)
 
